@@ -1,2 +1,2 @@
-- 👋 Hi, I’m @ElijahQatana
-Hi
+- 👋 Hello, I’m @ElijahQatana
+
