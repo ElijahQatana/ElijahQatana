@@ -1,15 +1,8 @@
 <img src="banner.svg" alt="Elijah Qatana" width="100%">
 
-<br>
-
 A real problem, solved for myself first. Some have been made solid enough to hand to someone else. Write-ups for all of it live at **[elijahquintana.pro](https://elijahquintana.pro)**.
 
 <br>
-
-> **NOW**<br>
-> **Calopod** · Many calendars. One schedule.<br>
-> **Graft** `WIP` · Your calendar, grafted onto your notes.
-
 <br>
 
 <table>
